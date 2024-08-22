@@ -13,7 +13,8 @@ namespace C_Sharp_Basics_2425
             //DataTypes();
             //InputOutput();
 
-            MathStuff.Math_Addition();
+            //MathStuff.Math_Addition();
+            MathStuff.Do_Stuff();
 
             Console.ReadKey();
         }
