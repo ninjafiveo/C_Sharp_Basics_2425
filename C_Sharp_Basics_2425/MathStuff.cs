@@ -31,7 +31,7 @@ namespace C_Sharp_Basics_2425
                 Do_Stuff();
             }
         }
-        public static void Math_Addition()
+        static void Math_Addition()
         {
             Console.Write("Enter a number to add: ");
             double num1 = double.Parse(Console.ReadLine());
@@ -41,7 +41,7 @@ namespace C_Sharp_Basics_2425
             Console.WriteLine($"The sum is: {the_sum}");
         }
 
-        public static void Math_Subtraction()
+        static void Math_Subtraction()
         {
             Console.Write("Enter a number to subtract: ");
             double num1 = double.Parse(Console.ReadLine());
@@ -51,7 +51,7 @@ namespace C_Sharp_Basics_2425
             Console.WriteLine($"The difference is: {the_difference}");
         }
 
-        public static void Math_Multiplication()
+        static void Math_Multiplication()
         {
             Console.Write("Enter a number to multiply: ");
             double num1 = double.Parse(Console.ReadLine());
@@ -61,7 +61,7 @@ namespace C_Sharp_Basics_2425
             Console.WriteLine($"The product is: {the_product}");
         }
 
-        public static void Math_Division()
+        static void Math_Division()
         {
             Console.Write("Enter a number to division: ");
             double num1 = double.Parse(Console.ReadLine());

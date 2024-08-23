@@ -15,7 +15,7 @@ namespace C_Sharp_Basics_2425
 
             //MathStuff.Math_Addition();
             MathStuff.Do_Stuff();
-
+            
             Console.ReadKey();
         }
 
